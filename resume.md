@@ -12,7 +12,7 @@
  - 工作年限：11年
  - Recommendataion: [https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf](https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf)
 
- - 期望职位：DevOps运维开发
+ - 期望职位：Application Support, IT Operation
  - 期望城市：上海
 
 # 工作经历
