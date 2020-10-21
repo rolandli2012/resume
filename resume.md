@@ -73,10 +73,8 @@ B/S架构，为各酒店提供视频上传接口，员工登录可以观看各�
 - 自动化运维：Ansible
 - 数据库相关：MySQL/MSSQL
 - 版本管理、文档和自动化部署工具：Svn/Git
-- CI/CD: GitLab, Travis CI, Docker, 
 - 脚本语言：Python/Shell
-- Agile: JIRA/Kanban
-- 云和开放平台：阿里云搭建及维护/微信应用开发
+- ITIL: HPSM, Service Now, Remedy
       
 ---      
 # 致谢
