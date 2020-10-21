@@ -9,7 +9,7 @@
 
  - 李文杰/男/1985
  - 本科/上海理工大学机械工程与自动化 
- - 工作年限：9年
+ - 工作年限：11年
  - Recommendataion: [https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf](https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf)
 
  - 期望职位：DevOps运维开发
@@ -17,17 +17,28 @@
 
 # 工作经历
 
-## 罗氏(中国)投资有限公司（ 2014年1月 ~ 至今）
-- Specialist - Application and Integration Services
+## 上海嘉会国际医院有限公司（ 2018年11月 ~ 至今）
+- Engineer - IT Infrastructure
+
+### Hospital Information System
+Perform daily operation, maintenance and improvement of hospital information systems (HIS) in compliance with policy guidelines, improve the monitoring, inspection, and troubleshooting of each system. Ensure to establish a monitoring mechanism for the IT Infra infrastructure environment and provide security support for network data communication.
+
+Perform the improvement of HIS high availability mechanism, established a separate middleware environment and successfully completed the migration. Provide support and ensure that important business systems such as HIS and ERP, qualify for the latest Information Security standards.
+
+### Log Analysis System
+Perform setup, operation and maintenanace support for log analysis system (ELK Stack), collect and analyze logs from network devices, servers, operating systems, web applications, etc.
+
+## 罗氏(中国)投资有限公司（ 2014年1月 ~ 2018年9月）
+- Specialist - Global Application and Integration Services
+
+### Operational support for Application Integartion and Middleware
+L3 Middleare and L2 BI global operational support. Ensure operational support is provided in accordance with industry best practices in Service Management including Service Availability, Capacity Planning, Performance Management, Incident and Problem Management, Change Management, and Service continuity.
 
 ### DevOps Automation and IaC Project
 To develop team capabilities in automation and deliver DevOps/IaC use cases. As a member of the team, I identified potential use cases, trained the team in devops tools and implemented some use cases related with Middleware automation.  Each use case reduced our L1 support requests by 20%. 
 
 ### Setup Roche Scientific Computing Platform
-Provide support to setup Roche scientific computing platform including CDH Bigdata, Microsoft R, Tensorflow on GPU servers, etc. Contribute consistently to the technology and process transformation, keep IT innovation and create a competitive advantage for our business.
-
-### Operational support for Application Integartion and Middleware
-L3 Middleare and L2 BI operational support. Ensure operational support is provided in accordance with industry best practices in Service Management including Service Availability, Capacity Planning, Performance Management, Incident and Problem Management, Change Management, and Service continuity.
+Provide operation support for Roche scientific computing platform including CDH Bigdata, Microsoft R, Tensorflow on GPU servers, etc. Contribute consistently to the technology and process transformation, keep IT innovation and create a competitive advantage for our business.
 
 ## 花旗软件技术服务(上海)有限公司（ 2011年9月 ~ 2013年12月 ）
 - Software Engineer (Citi Architecture and Technology Engineering)
