@@ -69,8 +69,6 @@ B/S架构，为各酒店提供视频上传接口，员工登录可以观看各�
 - 应用程序集成: Webmethods, Tibco, JBoss JDV
 - BI: Cloudera Hadoop, Tableau, Anaconda
 - 操作系统: Linux/Windows
-- Web框架: Django/SpringMVC
-- 自动化运维：Ansible
 - 数据库相关：MySQL/MSSQL
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 脚本语言：Python/Shell
