@@ -1,7 +1,7 @@
      
 # 联系方式
 
-- 手机：18621197972
+- 手机：15900679280
 - Email：roland.li2012@gmail.com
 
 
@@ -12,13 +12,13 @@
  - 工作年限：11年
  - Recommendataion: [https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf](https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf)
 
- - 期望职位：Application Support, IT Operation
+ - 期望职位：Application Support, IT Infra Support, Business Analyst
  - 期望城市：上海
 
 # 工作经历
 
 ## 上海嘉会国际医院有限公司（ 2018年11月 ~ 至今）
-- Engineer - IT Infrastructure
+- Middleware Specialist - IT Infrastructure
 
 ### Hospital Information System
 Perform daily operation, maintenance and improvement of hospital information systems (HIS) in compliance with policy guidelines, improve the monitoring, inspection, and troubleshooting of each system. Ensure to establish a monitoring mechanism for the IT Infra infrastructure environment and provide security support for network data communication.
