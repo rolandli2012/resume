@@ -15,7 +15,20 @@
 
 # Working Experience
 
-## Shanghai Jiahui International Hospital（ 2018/11 ~ now）
+## Development Bank of Singapore ( 2021.08 ~ 2022.05 )
+- Specialist - Service Delivery Engineer
+
+### Global Operation Team
+
+Perform Ensure quality infrastructure services with improved service level.
+
+Provide daily global operational support and maintenance for middleware and related information
+technology assets.
+
+Perform analysis required to define reporting requirements(e.g. Performance, Capacity, Change
+Management)
+
+## Shanghai Jiahui International Hospital（ 2018/11 ~ 2021/02 ）
 - Middleware Specialist - IT Infrastructure
 
 ### Hospital Information System
