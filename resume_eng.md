@@ -15,7 +15,7 @@
 
 # Working Experience
 
-## Development Bank of Singapore ( 2021.08 ~ 2022.05 )
+## Development Bank of Singapore Contractor Hire( 2021.08 ~ 2022.05 )
 - Specialist - Service Delivery Engineer
 
 ### Global Operation Team
