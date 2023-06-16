@@ -6,27 +6,25 @@
 
 # Personal Info
 
- - Wenjie Li/Male/1985
+ - Roland Wenjie Li/Male/1985
  - Bachelor/University of Shanghai Science and Technology/Mechanical Manufacture and Automation/2004.09-2008.07
  - Years of working：12
  - Recommendataion: [https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf](https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf)
 
- - Position expected：Application Support, IT Infra Support, Business Analyst
+ - Position expected：Application Integration and Middleware Specialist, IT Infra Support, IT Service Delivery
 
 # Working Experience
 
-## Development Bank of Singapore Contractor Hire( 2021.08 ~ 2022.05 )
+## Development Bank of Singapore Contractor Hire( 2021.03 ~ 2022.06 )
 - Specialist - Service Delivery Engineer
 
 ### Global Operation Team
 
-Perform Ensure quality infrastructure services with improved service level.
+Ensure the quality of infrastructure services with improved service level.
 
-Provide daily global operational support and maintenance for middleware and related information
-technology assets.
+Provide daily global operational support and maintenance for middleware and related information technology assets.
 
-Perform analysis required to define reporting requirements(e.g. Performance, Capacity, Change
-Management)
+Perform analysis required to define reporting requirements(e.g. Performance, Capacity, Change Management)
 
 ## Shanghai Jiahui International Hospital（ 2018/11 ~ 2021/02 ）
 - Middleware Specialist - IT Infrastructure
@@ -43,7 +41,10 @@ Perform setup, operation and maintenanace support for log analysis system (ELK S
 - Specialist - Global Application and Integration Services
 
 ### Operational support for Application Integartion and Middleware
-L3 Middleare and L2 BI global operational support. Ensure operational support is provided in accordance with industry best practices in Service Management including Service Availability, Capacity Planning, Performance Management, Incident and Problem Management, Change Management, and Service continuity.
+
+L3 Middleare and L2 Application Integration global operational support. Ensure operational support is provided in accordance with industry best practices in Service Management including Service Availability, Capacity Planning, Performance Management, Incident and Problem Management, Change Management, and Service continuity.
+
+Primary responsibility for Software AG webMethods integration software, the go-to person for webMethods production problems including broker outages, integration server, and My webMethods Server. Secondary responsibility for other software applications like IBM Sterling Integrator running on Unix, Linux, and Windows physical or virtual systems as a member of an operational support group.
 
 ### DevOps Automation and IaC Project
 To develop team capabilities in automation and deliver DevOps/IaC use cases. As a member of the team, I identified potential use cases, trained the team in devops tools and implemented some use cases related with Middleware automation.  Each use case reduced our L1 support requests by 20%. 
@@ -66,22 +67,17 @@ Engineer a self-provision tool for middleware management. Enable and integrate m
 ###  IDC monitoring system, development and maintenance
 Data center monitoring platform development and maintenance, including server status monitoring, middleware monitoring, database monitoring, log inspection and SMS alarms, etc.
 
-### Kraft OA Reimbursement System
-Based on jBPM workflow solution，design and develop a reimbursement system for Kraft Foods. 
-    
 # Self-description
 
-- BI: Cloudera Hadoop, Tableau, Anaconda
 - OS: Linux/Windows 
-- Middleware：JBoss EAP, Websphere, Apache, Tomcat
-- Application Integration: Webmethods, Tibco, JBoss JDV
+- Middleware：JBoss EAP, Websphere, Apache, Weblogic
+- Application Integration: webMethods, Tibco, JBoss JDV, Informatica PowerCenter, IBM Sterling B2B Integrator
 - Web Framework: Django/SpringMVC
 - Automation：Ansible
 - Database：MySQL/MSSQL
-- CI/CD: GitLab, Travis CI, Docker
 - Script: Python/Shell
 - Agile: JIRA/Kanban
-- Cloud: aliyun, WeChat API
+- Cloud: Aliyun, WeChat API
 - Good English communication skills in writing, oral
       
 ---      
