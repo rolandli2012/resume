@@ -49,8 +49,8 @@ Primary responsibility for Software AG webMethods integration software, the go-t
 ### DevOps Automation and IaC Project
 To develop team capabilities in automation and deliver DevOps/IaC use cases. As a member of the team, I identified potential use cases, trained the team in devops tools and implemented some use cases related with Middleware automation.  Each use case reduced our L1 support requests by 20%. 
 
-### Setup Roche Scientific Computing Platform
-Provide operation support for Roche scientific computing platform including CDH Bigdata, Microsoft R, Tensorflow on GPU servers, etc. Contribute consistently to the technology and process transformation, keep IT innovation and create a competitive advantage for our business.
+### JBoss Enterprise Data Services migration to JBoss Data Virtualization
+Leading JBoss Enterprise Data Services migration to JBoss Data Virtualization for APAC and NALA. Perform the design and build of an Automation Deployment Tool for JBoss Data Virtualization together with the developmnent department (ADMD), enabling our customers to perform application deployments using the tool.
 
 ## Citi Software and Technology Service (Vendor Hire)（ 2011/09 ~ 2013/12 ）
 - Software Engineer (Citi Architecture and Technology Engineering)
