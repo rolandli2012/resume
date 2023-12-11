@@ -8,7 +8,7 @@
 
  - Roland Wenjie Li/Male/1985
  - Bachelor/University of Shanghai Science and Technology/Mechanical Manufacture and Automation/2004.09-2008.07
- - Years of working：12
+ - Years of working：13
  - Recommendataion: [https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf](https://github.com/rolandli2012/resume/blob/master/Recommendation%20Letter-Wenjie%20Li.pdf)
 
  - Position expected：Application Integration and Middleware Specialist, IT Infra Support, IT Service Delivery
