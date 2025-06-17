@@ -15,6 +15,9 @@
 
 # Working Experience
 
+## Tokenflows Technology solo entrepreneur( 2022.07 ~ now )
+- Solo entreprenuer - AI automation agent
+
 ## Development Bank of Singapore Contractor Hire( 2021.03 ~ 2022.06 )
 - Specialist - Service Delivery Engineer
 
